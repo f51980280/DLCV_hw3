@@ -4,7 +4,7 @@
 refrence from https://github.com/penny4860/retinanet-digit-detector  
 and using https://github.com/fizyr/keras-retinanet for package in repository
 
-Model:Retinanet with ResNet152
+Model : Retinanet with ResNet152
 
 ## environment
   python 3.6  
