@@ -17,8 +17,8 @@ refrence from https://github.com/penny4860/retinanet-digit-detector
   ##### valid_annot  : 3*.png annotation with pascal voc annotation xml format #####it's unuse  
   
 ## python:
-  ### main.py : use python main.py for training  
-  ### convert2xml.py : change to xml format  
-  ### construct_dataset.py : use it to find the trainning data's label, bounding box,....(with digitstructure.mat)  
-  ### eval.py : it can show the predict result  
-  ### Demo_eval.py : demo for predict image  
+  ##### main.py : use python main.py for training  
+  ##### convert2xml.py : change to xml format  
+  ##### construct_dataset.py : use it to find the trainning data's label, bounding box,....(with digitstructure.mat)  
+  ##### eval.py : it can show the predict result  
+  ##### Demo_eval.py : demo for predict image  
