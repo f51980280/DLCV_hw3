@@ -1,5 +1,5 @@
 # DLCV_hw3
-## Retinanet with svhn dataset
+##  Digits Detection
 
 refrence from https://github.com/penny4860/retinanet-digit-detector  
 and using https://github.com/fizyr/keras-retinanet for package in repository
