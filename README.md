@@ -15,7 +15,7 @@ Model : Retinanet with ResNet152
 ## folder: 
   ##### snapshots  :  for saving weights  
   ##### train_all  :   all training image  
-  ##### train_all_anno  :  all training annotation with pascal voc annotation xml format  
+  ##### train_all_anno  :  all training annotation with xml format  
   ##### valid: for valid  : 3*.png for valid   #####it's unuse  
   ##### valid_annot  : 3*.png annotation with pascal voc annotation xml format #####it's unuse  
   
