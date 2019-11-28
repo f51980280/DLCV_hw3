@@ -26,4 +26,4 @@ Model : Retinanet with ResNet152
   ##### eval.py : it can show the predict result  
   ##### Demo_eval.ipynb : demo for predict image  
   
-my training weight store in : https://drive.google.com/open?id=1OuttuIFpE4uCxyvC5ID0jmVXryu4Z9gl
+My training weight store in : https://drive.google.com/open?id=1OuttuIFpE4uCxyvC5ID0jmVXryu4Z9gl
