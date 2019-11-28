@@ -1,8 +1,8 @@
 # DLCV_hw3
 ## Retinanet with svhn dataset
 
-refrence from https://github.com/penny4860/retinanet-digit-detector
-and  using https://github.com/fizyr/keras-retinanet for package in reposity
+refrence from https://github.com/penny4860/retinanet-digit-detector  
+and using https://github.com/fizyr/keras-retinanet for package in repository
 
 ## environment
   python 3.6  
