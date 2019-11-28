@@ -17,7 +17,7 @@ Model : Retinanet with ResNet152
   ##### train_all  :   all training image  
   ##### train_all_anno  :  all training annotation with xml format  
   ##### valid: for valid  : 3*.png for valid   #####it's unuse  
-  ##### valid_annot  : 3*.png annotation with pascal voc annotation xml format #####it's unuse  
+  ##### valid_annot  : 3*.png annotation with xml format #####it's unuse  
   
 ## python:
   ##### main.py : use python main.py for training  
