@@ -4,6 +4,8 @@
 refrence from https://github.com/penny4860/retinanet-digit-detector  
 and using https://github.com/fizyr/keras-retinanet for package in repository
 
+Model:Retinanet with ResNet152
+
 ## environment
   python 3.6  
   tensorflow-gpu 1.5.0  
@@ -23,3 +25,5 @@ and using https://github.com/fizyr/keras-retinanet for package in repository
   ##### construct_dataset.py : use it to find the trainning data's label, bounding box,....(with digitstructure.mat)  
   ##### eval.py : it can show the predict result  
   ##### Demo_eval.ipynb : demo for predict image  
+  
+my training weight store in : https://drive.google.com/open?id=1OuttuIFpE4uCxyvC5ID0jmVXryu4Z9gl
