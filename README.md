@@ -6,7 +6,7 @@ and using https://github.com/fizyr/keras-retinanet for package in repository
 
 ## environment
   python 3.6  
-  tensorflow 1.5.0  
+  tensorflow-gpu 1.5.0  
   keras 2.2.4  
   keras-retinanet 0.5.0  
 
