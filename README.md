@@ -21,4 +21,4 @@ refrence from https://github.com/penny4860/retinanet-digit-detector
   ##### convert2xml.py : change to xml format  
   ##### construct_dataset.py : use it to find the trainning data's label, bounding box,....(with digitstructure.mat)  
   ##### eval.py : it can show the predict result  
-  ##### Demo_eval.py : demo for predict image  
+  ##### Demo_eval.ipynb : demo for predict image  
